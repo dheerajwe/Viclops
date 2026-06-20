@@ -1,5 +1,0 @@
-{
-  "installCommand": "npm install --prefix design-2",
-  "buildCommand": "npm run build --prefix design-2",
-  "outputDirectory": "design-2/dist"
-}
